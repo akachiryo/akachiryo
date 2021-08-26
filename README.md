@@ -1,4 +1,4 @@
-# akachi-ryo
+# 自己紹介
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akachiryo&show_icons=true&theme=dark)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akachiryo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
