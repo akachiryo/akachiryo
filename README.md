@@ -4,3 +4,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=akachiryo&theme=onedark)](https://github.com/akachi-ryo/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akachiryo&theme=monokai)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akachiryo=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachiryo=cobalt" />
+</a>
