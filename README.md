@@ -5,3 +5,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akachiryo&theme=monokai)
 
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akachiryo&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
