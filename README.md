@@ -5,7 +5,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akachiryo&theme=monokai)
 
-(https://github-readme-stats.vercel.app/api?username=akachiryo=true&theme=cobalt)
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=akachiryo=cobalt)
-
