@@ -11,4 +11,4 @@
 # ■ 概要
 2023年4月からエンジニア転職しました！  
 Javascript,Rubyを使うことが多いです！  
-個人開発で、flutter,Go,Next触ってます。
+個人開発で、flutter,Nextjs触ってます。
