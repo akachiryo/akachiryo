@@ -12,14 +12,14 @@
 Javascript, Rubyを使うことが多いです！  
 個人開発でNext.jsを触っています。
 
-## 🌟 個人開発
-- **ガルバとキャバ**: https://girlsbar-cabalet.com
-- **CalorieSnap**: https://image-calorie.vercel.app
-
 ## 🛠️ 技術スタック
 - **フロントエンド**: JavaScript, React, Vuejs
 - **バックエンド**: Ruby, Rails
 - **ツール**: Git, Docker, AWS
+
+## 🌟 個人開発
+- **ガルバとキャバ**: https://girlsbar-cabalet.com
+- **CalorieSnap**: https://image-calorie.vercel.app
 
 ## 📚 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akachiryo&layout=compact&theme=radical)](https://github.com/akachiryo)
