@@ -18,7 +18,7 @@ Javascript, Rubyを使うことが多いです！
 
 # 🌟 個人開発
 - **ガルバとキャバ**: https://girlsbar-cabalet.com
-- **CalorieSnap**: https://image-calorie.vercel.app
+- **CalorieSnap**: https://carolie-snap.com
 
 # 📚 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akachiryo&layout=compact&theme=radical)](https://github.com/akachiryo)
