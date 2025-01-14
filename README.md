@@ -23,4 +23,3 @@ Javascript, Rubyを使うことが多いです！
 # 📚 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akachiryo&layout=compact&theme=radical)](https://github.com/akachiryo)
 
-
