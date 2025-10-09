@@ -15,10 +15,6 @@ Javascript, Rubyを使うことが多いです！
 - **バックエンド**: Ruby, Rails
 - **ツール**: Git, Docker, AWS
 
-# 🌟 個人開発
-- **ガルバとキャバ**: https://girlsbar-cabalet.com
-- **CalorieSnap**: https://calorie-snap.com
-
 # 📚 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akachiryo&layout=compact&theme=radical)](https://github.com/)
 
